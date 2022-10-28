@@ -1,7 +1,7 @@
 {
  	"tabs": {
  	 	"map": {
- 	 	 	"trans": "Карта",
+ 	 	 	"trans": "Мапа",
  	 	 	"eng": "Map"
  	 	},
  	 	"inventory": {
@@ -379,7 +379,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"cost"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Чат банди буде ввімкнено, коли ви належите до банди",
+ 	 	 	 	 	"trans": "Чат банди буде ввімкнено, коли ви належите до банди.\\njoin створіть банду, подружившись у глобальному чаті, або створіть власну банду та запросіть друзів!",
  	 	 	 	 	"eng": "gang chat will be enabled when you belong to a gang.\\njoin a gang by making friends in global chat or create your own gang and invite your friends!"
  	 	 	 	},
  	 	 	 	"createButton": {
@@ -507,7 +507,7 @@
  	 	 	 	 	"eng": "Global Skip (${timeSkipMinutes} Min, Cost ${timeSkipCost} Units)"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Глобальне прискорення дозволяє пришвидшити виконання AFK завдання, і завершити його одразу.\n    цей ефект буде застосовано до всіх гравців, що виконують AFK завдання",
+ 	 	 	 	 	"trans": "Глобальне прискорення дозволяє пришвидшити виконання AFK завдання, і завершити його одразу.\r\n    цей ефект буде застосовано до всіх гравців, що виконують AFK завдання",
  	 	 	 	 	"eng": "Global Skip allow you to skip the AFK waiting time, and finish it instantly.\r\n    this effect will be applied to all player performing AFK task"
  	 	 	 	}
  	 	 	},
@@ -552,7 +552,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Глобальне прискорення дозволяє пришвидшити виконання AFK завдання, і завершити його одразу.\n    цей ефект буде застосовано до всіх гравців, що виконують AFK завдання",
+ 	 	 	 	"trans": "Глобальне прискорення дозволяє пришвидшити виконання AFK завдання, і завершити його одразу.\r\n    цей ефект буде застосовано до всіх гравців, що виконують AFK завдання",
  	 	 	 	"eng": "Global Skip allow you to skip the AFK waiting time, and finish it instantly.\r\n    this effect will be applied to all players performing an AFK task"
  	 	 	}
  	 	},
@@ -716,7 +716,7 @@
  	 	 	},
  	 	 	"factoryReset": {
  	 	 	 	"confirmation": {
- 	 	 	 	 	"trans": "Ця дія скасує попереднє калібрування цієї речі, але також дозволить її продаж. \n      Продовжити?",
+ 	 	 	 	 	"trans": "Ця дія скасує попереднє калібрування цієї речі, але також дозволить її продаж. \r\n      Продовжити?",
  	 	 	 	 	"eng": "Doing this will reset all calibration on your item. It will also make it tradable again. \r\n      Are you sure you want to proceed?"
  	 	 	 	},
  	 	 	 	"trans": "Відновити Заводські Налаштування",
@@ -1167,7 +1167,7 @@
  	 	 	 	 	 	"eng": "Acquire AI Cores"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Ви можете отримати Ядра AI наступним чином: \n         - Пошпортайтесь в різних місцях \n         - Виготовте з хеш-процесора і техно-шматочків \n         - поборовши ворогів у будь-якій локації",
+ 	 	 	 	 	 	"trans": "Ви можете отримати Ядра AI наступним чином: \r\n         - Пошпортайтесь в різних місцях \r\n         - Виготовте з хеш-процесора і техно-шматочків \r\n         - поборовши ворогів у будь-якій локації",
  	 	 	 	 	 	"eng": "You may get AI Cores by: \r\n        - Scavenge in various locations\r\n        - Crafting with Hash Processors and Tech Scraps\r\n        - Looting from enemies in all locations"
  	 	 	 	 	}
  	 	 	 	},
@@ -1199,7 +1199,7 @@
  	 	 	 	 	 	"eng": "Breach operation completed"
  	 	 	 	 	},
  	 	 	 	 	"subtitle": {
- 	 	 	 	 	 	"trans": "Розгортається віддалений експлойт, будь ласка, зачекайте ...",
+ 	 	 	 	 	 	"trans": "Розгортається віддалений експлойт, будь ласка, зачекайте...",
  	 	 	 	 	 	"eng": "Remote exploit deploying, please wait..."
  	 	 	 	 	}
  	 	 	 	}
@@ -1380,7 +1380,7 @@
  	 	 	 	"eng": "Receive Global Buff Notification"
  	 	 	},
  	 	 	"forceMobileMode": {
- 	 	 	 	"trans": "Увімкнути режим CyberPunk (застаріла опція)",
+ 	 	 	 	"trans": "Увімкнути режим CyberPunk",
  	 	 	 	"eng": "Enable Cyberpunk Mode"
  	 	 	},
  	 	 	"uiScale": {
